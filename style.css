@@ -1,0 +1,86 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.titulosDiv {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    text-align: start; /* Centrar el contenido horizontalmente */
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 10% 10% 3% 10%;
+    background-image: url(/images/cabecera.jpg);
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 5rem;
+    margin-top: 2rem; /* Ajusta el margen superior */
+}
+
+.linea {
+    border-bottom: 5px solid black;
+    border-radius: 50px;
+    width: 170px;
+    
+}
+
+.titulos {
+    font-size: 2rem;
+    padding-top: 1rem;
+    color: black;
+    text-decoration: none;
+    padding-top: 0.5%;
+}
+#text1{
+    padding: 5% 0 0 0;
+}
+.titulos:hover {
+    color: orangered;
+}
+
+.primerBloque {
+    background-color: rgb(255, 174, 0);
+    width: 100%;
+    text-align: start;
+    padding: 4rem 0; /* Ajustar el espaciado interno */
+}
+
+.container {
+    background-size: cover;
+    width: 100%;
+    text-align: start; /* Centrar el contenido horizontalmente */
+    padding: 4rem 0; /* Ajustar el espaciado interno */
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    margin: 5% 0 0% 10%
+}
+
+p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    margin: 5% 10% 3% 10%;
+}
+
+#regresarInicio {
+    color: orangered;
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin: 1rem 0;
+    margin: 0% 0 0 10%;
+}
+.container2{
+    background-color: antiquewhite;
+    background-size: cover;
+    width: 100%;
+    text-align: start; /* Centrar el contenido horizontalmente */
+    padding: 4rem 0;
+}
