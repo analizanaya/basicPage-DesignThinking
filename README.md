@@ -30,6 +30,11 @@ Estos son solo algunos de los conceptos de desarrollo frontend que he aplicado e
 ***
 ![para readme1](https://github.com/analizanaya/basicPage-DesignThinking/assets/122294256/38d2baaa-fb63-4bf2-95af-7f1419bf1cdc)
 
+
+
+[Aquí encontrarás el proyecto desplegado.👾][github-link]
+
+[github-link]: https://basic-page-design-thinking.netlify.app/
 ## Technologies
 
 ***
